@@ -1,0 +1,3 @@
+LILSO RESOLUSI
+- Melakukan coding PHP
+- Menyambungkan php dan Database
